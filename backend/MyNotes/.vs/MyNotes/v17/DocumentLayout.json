@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\getnotesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\dataaccess\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\contracts\\deletenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\deletenoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\getnotesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\contracts\\createnoterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB3416D-3B82-450B-87C9-473C661F5681}|Solution Items{7BB3416D-3B82-450B-87C9-473C661F5681}|C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BB3416D-3B82-450B-87C9-473C661F5681}|Solution Items{7BB3416D-3B82-450B-87C9-473C661F5681}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\mynotes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|c:\\users\\londelord\\desktop\\my_notes\\backend\\mynotes\\mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9FA33695-1A2A-4154-BA67-0C7412B4E91F}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\DeleteNoteRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\DeleteNoteRequest.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\DeleteNoteRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\DeleteNoteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:25:35.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetNotesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\GetNotesResponse.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\GetNotesResponse.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\GetNotesResponse.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\GetNotesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:26:06.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\NoteDto.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\NoteDto.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\NoteDto.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\NoteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:25:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetNotesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\GetNotesRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\GetNotesRequest.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\GetNotesRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\GetNotesRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:25:42.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateNoteRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "RelativeToolTip": "MyNotes\\Contracts\\CreateNoteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:25:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\DataAccess\\NotesDbContext.cs",
+              "RelativeToolTip": "MyNotes\\DataAccess\\NotesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:25:39.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeToolTip": "MyNotes\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:25:36.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "MyNotes\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:11:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Dockerfile",
+              "RelativeDocumentMoniker": "MyNotes\\Dockerfile",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Dockerfile",
+              "RelativeToolTip": "MyNotes\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T14:18:03.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T14:18:01.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyNotes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyNotes\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T14:15:37.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyNotes.http",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\MyNotes.http",
+              "RelativeDocumentMoniker": "MyNotes\\MyNotes.http",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\MyNotes.http",
+              "RelativeToolTip": "MyNotes\\MyNotes.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-07T14:14:39.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-07T14:14:28.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyNotes\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\appsettings.Development.json",
+              "RelativeToolTip": "MyNotes\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T14:14:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Program.cs",
+              "ToolTip": "C:\\Users\\Londelord\\Desktop\\my_notes\\backend\\MyNotes\\MyNotes\\Program.cs",
+              "RelativeToolTip": "MyNotes\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:55:05.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
