@@ -21,3 +21,8 @@
 Клиентская часть написана на React js.
 Запросы на сервер отправляются с помощью библиотеки Axios.
 Основные компоненты UI описаны библиотекой ChakraUI.
+
+### Preview
+![image](https://github.com/user-attachments/assets/a2f34dd5-71b2-43f5-8a15-4dae68d3843f)
+
+![image](https://github.com/user-attachments/assets/b859f71f-5bf0-4fab-9719-15c69b52a07f)
